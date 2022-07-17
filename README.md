@@ -19,6 +19,7 @@
 - umee
 - sifchain
 - omniflix
+- odin 
 
 ### Fetch.ai
 - juno
@@ -51,9 +52,12 @@
 - juno
 
 
-### OmniFlix Networ
+### OmniFlix Network
 - osmosis
 - juno
 - gravity
 - chihuahua
 - sifchain
+
+### Odin
+- osmosis
