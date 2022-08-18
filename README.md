@@ -31,6 +31,7 @@
 - osmosis
 
 ### Juno Network
+[Relayer Link](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj)
 - chihuahua
 - omniflix
 - sifchain
