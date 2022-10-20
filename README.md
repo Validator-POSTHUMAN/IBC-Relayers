@@ -1,6 +1,7 @@
 ## POSTHUMAN supports next IBC-Relayers: <br />
 
 ### Gravity Bridge
+[Relayer link](https://www.mintscan.io/gravity-bridge/account/gravity1jdfl8aa2cpzq9ufe3y6awyp6m9d65yy57tv2z4)
 - chihuahua
 - juno
 - fetchai
@@ -9,9 +10,11 @@
 - colosseum
 
 ### FirmaChain
+[Relayer link](https://explorer.firmachain.dev/accounts/firma1latk4vaeqwhc8u6t4hq05h5ljq3v4uqej90hg2)
  - g-bridge
 
 ### Osmosis
+[Relayer link](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
 - chihuahua
 - juno
 - g-bridge
@@ -22,16 +25,18 @@
 - odin 
 
 ### Fetch.ai
+[Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
 - juno
 - g-bridge
 - osmosis
 
 ### Umee
+[Relayer link](https://www.mintscan.io/umee/account/umee1my9v82a7dwlz7j5p4dptlv7mecenzymnhp0d4g)
 - g-bridge
 - osmosis
 
 ### Juno Network
-[Relayer Link](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj)
+[Relayer link](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj)
 - chihuahua
 - omniflix
 - sifchain
@@ -40,17 +45,24 @@
 - g-bridge
 
 ### SifChain
+[Relayer link](https://www.mintscan.io/sifchain/account/sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th)
 - juno
 - omniflix
 - osmosis
 
 
 ### Chihuahua Chain
+[Relayer link](https://www.mintscan.io/chihuahua/account/chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq)
 - omniflix
 - sifchain
 - osmosis
 - g-bridge
 - juno
+
+### Asset Mantle
+[Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
+- Osmosis
+- Juno
 
 
 ### OmniFlix Network
@@ -61,8 +73,9 @@
 - sifchain
 
 ### Odin
+[Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
 - osmosis
 
 ### Tgrade
-[Relayer address](https://www.mintscan.io/tgrade/account/tgrade1f7ahqkjvhlfl8acf7dfhnegdklrqyrj6lckehf)
-
+[Relayer link](https://www.mintscan.io/tgrade/account/tgrade1f7ahqkjvhlfl8acf7dfhnegdklrqyrj6lckehf)
+- osmosis
