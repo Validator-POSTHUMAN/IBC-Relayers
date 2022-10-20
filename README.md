@@ -62,3 +62,7 @@
 
 ### Odin
 - osmosis
+
+### Tgrade
+[Relayer address](https://www.mintscan.io/tgrade/account/tgrade1f7ahqkjvhlfl8acf7dfhnegdklrqyrj6lckehf)
+
