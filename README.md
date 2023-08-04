@@ -23,6 +23,12 @@
 - sifchain
 - omniflix
 - odin 
+- tgrade
+- assetmantle
+- cosmos hub
+- injective
+- secret
+- stride
 
 ### Fetch.ai
 [Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
