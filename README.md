@@ -86,3 +86,10 @@
 ### Tgrade
 [Relayer link](https://www.mintscan.io/tgrade/account/tgrade1f7ahqkjvhlfl8acf7dfhnegdklrqyrj6lckehf)
 - osmosis
+
+### Archway
+[Relayer link](https://www.mintscan.io/archway/accounts/archway1q3r82mdwehuxtcgpyuva2rwfe935qtwffqey6h)
+- Cosmos hub
+- Osmosis
+- Juno
+- Umee
