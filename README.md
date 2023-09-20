@@ -7,11 +7,38 @@
 - fetchai
 - osmosis
 - umee
-- colosseum
+- colosseum (firmachain)
+- injective
+- crescent
+
+### Injective
+[Relayer link]()
+- osmosis
+- juno
+- g-bridge
+- chihuahua
+- crescent
+- secret
+- stride
+
+### Cosmos Hub
+[Relayer link]()
+- osmosis
+- juno
+- archway
+- secret
+- stride
 
 ### FirmaChain
 [Relayer link](https://explorer.firmachain.dev/accounts/firma1latk4vaeqwhc8u6t4hq05h5ljq3v4uqej90hg2)
  - g-bridge
+
+### Secret Network
+[Relayer link]()
+- cosmos
+- osmosis
+- juno
+- injective
 
 ### Osmosis
 [Relayer link](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
@@ -30,6 +57,13 @@
 - secret
 - stride
 
+### Crescent
+[Relayer link]()
+- g-bridge
+- juno
+- assetmantle
+- injective
+
 ### Fetch.ai
 [Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
 - juno
@@ -40,6 +74,9 @@
 [Relayer link](https://www.mintscan.io/umee/account/umee1my9v82a7dwlz7j5p4dptlv7mecenzymnhp0d4g)
 - g-bridge
 - osmosis
+- juno
+- sifchain
+- archway
 
 ### Juno Network
 [Relayer link](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj)
@@ -49,13 +86,20 @@
 - fetchai
 - osmosis
 - g-bridge
+- assetmantle
+- crescent
+- cosmos
+- stride
+- injective
+- umee
 
 ### SifChain
 [Relayer link](https://www.mintscan.io/sifchain/account/sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th)
 - juno
 - omniflix
 - osmosis
-
+- umee
+- chihuahua
 
 ### Chihuahua Chain
 [Relayer link](https://www.mintscan.io/chihuahua/account/chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq)
@@ -64,12 +108,13 @@
 - osmosis
 - g-bridge
 - juno
+- injective
 
 ### Asset Mantle
 [Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
 - Osmosis
 - Juno
-
+- Crescent
 
 ### OmniFlix Network
 [Relayer link](https://www.mintscan.io/omniflix/account/omniflix1llnx025yzlqehyz3hvtyh5f627kszclg32hlsm)
