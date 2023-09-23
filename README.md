@@ -1,5 +1,6 @@
 ![1v (10)](https://github.com/Validator-POSTHUMAN/IBC-Relayers/assets/92199696/ca4e098d-6160-4535-806d-59b7a4951ccb)
 # IBC Relayers: 
+`There's a list of IBC relayers currently provided by POSTHUMAN validator:`
 ### 1. Gravity Bridge
 [Relayer link](https://www.mintscan.io/gravity-bridge/account/gravity1jdfl8aa2cpzq9ufe3y6awyp6m9d65yy57tv2z4)
 - chihuahua
