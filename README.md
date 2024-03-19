@@ -3,139 +3,149 @@
 `There's a list of IBC relayers currently provided by POSTHUMAN validator:`
 ### 1. Gravity Bridge
 [Relayer link](https://www.mintscan.io/gravity-bridge/account/gravity1jdfl8aa2cpzq9ufe3y6awyp6m9d65yy57tv2z4)
-- chihuahua
-- juno
-- fetchai
-- osmosis
-- umee
-- colosseum (firmachain)
-- injective
-- crescent
+- Chihuahua Chain
+- Juno Network
+- Fetch-ai
+- Osmosis
+- Umee
+- Colosseum (Firmachain)
+- Injective
+- Crescent
 
 ### 2. Injective
 [Relayer link](https://www.mintscan.io/injective/address/inj13q49unftdxhvhz8z7yzcysvnnkgtdd46qmycva)
-- osmosis
-- juno
-- g-bridge
-- chihuahua
-- crescent
-- secret
-- stride
+- Osmosis
+- Juno Network
+- G-bridge
+- Chihuahua Chain
+- Crescent
+- Secret Network
+- Stride
 
 ### 3. Cosmos Hub
 [Relayer link](https://www.mintscan.io/cosmos/address/cosmos1aea0vly7lklqrkxjpvch8z5dekmxqwyk8kr4px)
-- osmosis
-- juno
-- archway
-- secret
-- stride
+- Osmosis
+- Juno Network
+- Archway
+- Secret Network
+- Stride
 
 ### 4. FirmaChain
 [Relayer link](https://explorer.firmachain.dev/accounts/firma1latk4vaeqwhc8u6t4hq05h5ljq3v4uqej90hg2)
- - g-bridge
+ - G-bridge
 
 ### 5. Secret Network
 [Relayer link](https://www.mintscan.io/secret/address/secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k)
-- cosmos
-- osmosis
-- juno
-- injective
+- Cosmos Hub
+- Osmosis
+- Juno Network
+- Injective
 
 ### 6. Osmosis
 [Relayer link](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
-- chihuahua
-- juno
-- g-bridge
-- fetch-ai
-- umee
-- sifchain
-- omniflix
-- odin 
-- tgrade
-- assetmantle
-- cosmos hub
-- injective
+- Chihuahua Chain
+- Juno Network
+- G-bridge
+- Fetch-ai
+- Umee
+- SifChain
+- OmniFlix
+- Odin Protocol 
+- Tgrade
+- AssetMantle
+- Cosmos Hub
+- Injective
 - set
-- stride
+- Stride
 
 ### 7. Crescent
 [Relayer link](cre12dmz39xehzuzzjrf3gz3s5aknr08jnhdz6m70v)
-- g-bridge
-- juno
-- assetmantle
-- injective
+- G-bridge
+- Juno Network
+- AssetMantle
+- Injective
 
 ### 8. Fetch.ai
 [Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
-- juno
-- g-bridge
-- osmosis
+- Juno Network
+- G-bridge
+- Osmosis
 
 ### 9. Umee
 [Relayer link](https://www.mintscan.io/umee/account/umee1my9v82a7dwlz7j5p4dptlv7mecenzymnhp0d4g)
-- g-bridge
-- osmosis
-- juno
-- sifchain
-- archway
+- G-bridge
+- Osmosis
+- Juno Network
+- SifChain
+- Archway
 
 ### 10. Juno Network
 [Relayer link](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj)
-- chihuahua
-- omniflix
-- sifchain
-- fetchai
-- osmosis
-- g-bridge
-- assetmantle
-- crescent
-- cosmos
-- stride
-- injective
-- umee
+- Chihuahua Chain
+- OmniFlix
+- SifChain
+- Fetch-ai
+- Osmosis
+- G-bridge
+- AssetMantle
+- Crescent
+- Cosmos Hub
+- Stride
+- Injective
+- Umee
 
 ### 11. SifChain
 [Relayer link](https://www.mintscan.io/sifchain/account/sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th)
-- juno
-- omniflix
-- osmosis
-- umee
-- chihuahua
+- Juno Network
+- OmniFlix
+- Osmosis
+- Umee
+- Chihuahua Chain
 
 ### 12. Chihuahua Chain
 [Relayer link](https://www.mintscan.io/chihuahua/account/chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq)
-- omniflix
-- sifchain
-- osmosis
-- g-bridge
-- juno
-- injective
+- OmniFlix
+- SifChain
+- Osmosis
+- G-bridge
+- Juno Network
+- Injective
 
 ### 13. Asset Mantle
 [Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
 - Osmosis
-- Juno
+- Juno Network
 - Crescent
 
 ### 14. OmniFlix Network
 [Relayer link](https://www.mintscan.io/omniflix/account/omniflix1llnx025yzlqehyz3hvtyh5f627kszclg32hlsm)
-- osmosis
-- juno
-- gravity
-- chihuahua
-- sifchain
+- Osmosis
+- Juno Network
+- G-bridge
+- Chihuahua Chain
+- SifChain
 
 ### 15. Odin
-[Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
-- osmosis
+[Relayer link](https://ping.pub/odin/account/odin1arl3yqdafpff33gd0djvmj6kyu20q0w8c5ln2t)
+- Osmosis
 
 ### 16. Tgrade
 [Relayer link](https://www.mintscan.io/tgrade/account/tgrade1f7ahqkjvhlfl8acf7dfhnegdklrqyrj6lckehf)
-- osmosis
+- Osmosis
 
 ### 17. Archway
 [Relayer link](https://www.mintscan.io/archway/accounts/archway1q3r82mdwehuxtcgpyuva2rwfe935qtwffqey6h)
 - Cosmos hub
 - Osmosis
-- Juno
+- Juno Network
 - Umee
+
+### 18. Dymention
+[Relayer link](https://www.mintscan.io/dymension/address/dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy)
+- Osmosis 
+- Cosmos Hub 
+- Secret Network
+- Stride
+- Neutron
+- Noble
+- Coreum
