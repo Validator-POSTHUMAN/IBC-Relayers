@@ -55,7 +55,6 @@
 - AssetMantle
 - Cosmos Hub
 - Injective
-- set
 - Stride
 
 ### 7. Crescent
