@@ -21,6 +21,7 @@
 - Crescent
 - Secret Network
 - Stride
+- Persistence
 
 ### 3. Cosmos Hub
 [Relayer link](https://www.mintscan.io/cosmos/address/cosmos1aea0vly7lklqrkxjpvch8z5dekmxqwyk8kr4px)
@@ -29,6 +30,7 @@
 - Archway
 - Secret Network
 - Stride
+- Persistence
 
 ### 4. FirmaChain
 [Relayer link](https://explorer.firmachain.dev/accounts/firma1latk4vaeqwhc8u6t4hq05h5ljq3v4uqej90hg2)
@@ -40,6 +42,7 @@
 - Osmosis
 - Juno Network
 - Injective
+- Persistence
 
 ### 6. Osmosis
 [Relayer link](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
@@ -56,6 +59,7 @@
 - Cosmos Hub
 - Injective
 - Stride
+- Persistence
 
 ### 7. Crescent
 [Relayer link](cre12dmz39xehzuzzjrf3gz3s5aknr08jnhdz6m70v)
@@ -92,6 +96,7 @@
 - Stride
 - Injective
 - Umee
+- Persistence
 
 ### 11. SifChain
 [Relayer link](https://www.mintscan.io/sifchain/account/sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th)
@@ -139,7 +144,7 @@
 - Juno Network
 - Umee
 
-### 18. Dymention
+### 18. Dymension
 [Relayer link](https://www.mintscan.io/dymension/address/dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy)
 - Osmosis 
 - Cosmos Hub 
@@ -148,3 +153,13 @@
 - Neutron
 - Noble
 - Coreum
+
+### 19. Persistence
+[Relayer link](https://www.mintscan.io/persistence/address/persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w)
+- Osmosis channel-6 
+- Cosmos Hub channel-24
+- Noble channel-132
+- Secret Network channel-82
+- Neutron channel-136
+- Injective channel-41
+- Juno channel-37
