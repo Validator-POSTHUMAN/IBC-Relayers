@@ -64,6 +64,7 @@
 - Injective
 - Stride
 - Persistence
+- Agoric
 
 ### 7. Crescent
 [Relayer link](cre12dmz39xehzuzzjrf3gz3s5aknr08jnhdz6m70v)
@@ -168,6 +169,10 @@
 - Injective channel-41
 - Juno channel-37
 
+### 20. Agoric
+[Relayer link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3)
+- Osmosis 
+
 </details>
 
 
@@ -194,5 +199,6 @@
 | Archway            | archway1q3r82mdwehuxtcgpyuva2rwfe935qtwffqey6h                          | [Link](https://www.mintscan.io/archway/accounts/archway1q3r82mdwehuxtcgpyuva2rwfe935qtwffqey6h) |
 | Dymension          | dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy                               | [Link](https://www.mintscan.io/dymension/address/dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy) |
 | Persistence        | persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w                      | [Link](https://www.mintscan.io/persistence/address/persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w) |
+| Agoric             | agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3                            | [Link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3) |
 
 
