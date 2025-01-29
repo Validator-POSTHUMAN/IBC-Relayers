@@ -171,10 +171,12 @@
 
 ### 20. Agoric
 [Relayer link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3)
-- Osmosis 
+- Osmosis
+
+### 21. BeeZee
+[Relayer link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg)
 
 </details>
-
 
 ## IBC Relayers
 
@@ -200,5 +202,6 @@
 | Dymension          | dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy                               | [Link](https://www.mintscan.io/dymension/address/dym1h3grxcfts9uc8lvu9vclhahus2npk24pch2dvy) |
 | Persistence        | persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w                      | [Link](https://www.mintscan.io/persistence/address/persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w) |
 | Agoric             | agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3                            | [Link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3) |
+| BeeZee             | bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg                               | [Link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg) |
 
 
