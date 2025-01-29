@@ -35,6 +35,7 @@
 - Secret Network
 - Stride
 - Persistence
+- BeeZee
 
 ### 4. FirmaChain
 [Relayer link](https://explorer.firmachain.dev/accounts/firma1latk4vaeqwhc8u6t4hq05h5ljq3v4uqej90hg2)
@@ -65,6 +66,7 @@
 - Stride
 - Persistence
 - Agoric
+- BeeZee
 
 ### 7. Crescent
 [Relayer link](cre12dmz39xehzuzzjrf3gz3s5aknr08jnhdz6m70v)
@@ -175,6 +177,9 @@
 
 ### 21. BeeZee
 [Relayer link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg)
+- Osmosis
+- Cosmos
+- Crypto Dungeon (Incoming)
 
 </details>
 
