@@ -174,6 +174,10 @@
 ### 20. Agoric
 [Relayer link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3)
 - Osmosis
+- Cosmos
+- Omniflix
+- Neutron
+- Persistence
 
 ### 21. BeeZee
 [Relayer link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg)
