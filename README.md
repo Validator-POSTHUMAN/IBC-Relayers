@@ -183,7 +183,11 @@
 [Relayer link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg)
 - Osmosis
 - Cosmos
-- Crypto Dungeon (Incoming)
+- Crypto Dungeon
+
+### 22. Crypto Dungeon 
+[Relayer link](https://staking-explorer.com/account.php?chain=dungeon&addr=dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e)
+- BeeZee
 
 </details>
 
@@ -212,5 +216,6 @@
 | Persistence        | persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w                      | [Link](https://www.mintscan.io/persistence/address/persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w) |
 | Agoric             | agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3                            | [Link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3) |
 | BeeZee             | bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg                               | [Link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg) |
+| Crypto Dungeon     | dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e                           | [Link](https://staking-explorer.com/account.php?chain=dungeon&addr=dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e) |
 
 
