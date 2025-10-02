@@ -58,6 +58,7 @@
 - Cosmos Hub
 - Injective
 - Persistence
+- Neutron
 
 ### 7. Chihuahua Chain
 [Relayer link](https://www.mintscan.io/chihuahua/account/chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq)
@@ -106,6 +107,10 @@
 [Relayer link](https://staking-explorer.com/account.php?chain=dungeon&addr=dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e)
 - BeeZee
 
+### 14. Neutron
+[Relayer link](https://www.mintscan.io/neutron/address/neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd/)
+- Juno
+
 </details>
 
 ## IBC Relayers
@@ -117,7 +122,7 @@
 | Secret Network     | secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k                           | [Link](https://www.mintscan.io/secret/address/secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k) |
 | Osmosis            | osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86                             | [Link](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86) |
 | Fetch.ai           | fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln                             | [Link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln) |
-| Juno Network       | juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj                             | [Link](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj) |
+| Juno Network       | juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj                             | [Link](https://ping.pub/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj) |
 | Chihuahua Chain    | chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq                         | [Link](https://www.mintscan.io/chihuahua/account/chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq) |
 | Asset Mantle       | mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm                            | [Link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm) |
 | OmniFlix Network   | omniflix1llnx025yzlqehyz3hvtyh5f627kszclg32hlsm                         | [Link](https://www.mintscan.io/omniflix/account/omniflix1llnx025yzlqehyz3hvtyh5f627kszclg32hlsm) |
@@ -126,3 +131,4 @@
 | Agoric             | agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3                            | [Link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3) |
 | BeeZee             | bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg                               | [Link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg) |
 | Crypto Dungeon     | dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e                           | [Link](https://staking-explorer.com/account.php?chain=dungeon&addr=dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e) |
+| Neutron     | neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd                           | [Link](https://www.mintscan.io/neutron/address/neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd) |
