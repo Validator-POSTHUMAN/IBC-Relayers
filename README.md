@@ -1,134 +1,46 @@
-![1v (10)](https://github.com/Validator-POSTHUMAN/IBC-Relayers/assets/92199696/ca4e098d-6160-4535-806d-59b7a4951ccb)
-# IBC Relayers: 
-`There's a list of IBC relayers currently provided by POSTHUMAN validator:`
+# POSTHUMAN IBC Relayers
 
-<details>
-  <summary>LIST OF RELAYERS AND CONNECTIONS:</summary>
+This repository is a public reference for IBC relayer addresses operated or
+historically operated by POSTHUMAN.
 
-### 1. Injective
-[Relayer link](https://www.mintscan.io/injective/address/inj13q49unftdxhvhz8z7yzcysvnnkgtdd46qmycva)
-- Osmosis
-- Juno Network
-- Chihuahua Chain
-- Secret Network
-- Persistence
+## Current Status
 
-### 2. Cosmos Hub
-[Relayer link](https://www.mintscan.io/cosmos/address/cosmos1aea0vly7lklqrkxjpvch8z5dekmxqwyk8kr4px)
-- Osmosis
-- Juno Network
-- Secret Network
-- Persistence
-- BeeZee
+The old Hermes relayer host `78.47.68.236` was retired for relayer use on
+2026-06-03.
 
-### 3. Secret Network
-[Relayer link](https://www.mintscan.io/secret/address/secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k)
-- Cosmos Hub
-- Osmosis
-- Juno Network
-- Injective
-- Persistence
+A replacement Hermes relayer is staged on `135.181.227.236`, but the
+`hermes-relayer.service` unit is intentionally disabled and inactive until the
+team chooses the exact chains, paths, and channels to relay.
 
-### 4. Osmosis
-[Relayer link](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
-- Chihuahua Chain
-- Juno Network
-- Fetch-ai
-- OmniFlix
-- Odin Protocol 
-- AssetMantle
-- Cosmos Hub
-- Injective
-- Persistence
-- Agoric
-- BeeZee
+Live verification on 2026-07-01:
 
-### 5. Fetch.ai
-[Relayer link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln)
-- Juno Network
-- Osmosis
+- `hermes-relayer.service`: disabled
+- `hermes-relayer.service`: inactive
+- Hermes config validation: passed
 
-### 6. Juno Network
-[Relayer link](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj)
-- Chihuahua Chain
-- OmniFlix
-- Fetch-ai
-- Osmosis
-- AssetMantle
-- Cosmos Hub
-- Injective
-- Persistence
-- Neutron
+## Staged Hermes Chains
 
-### 7. Chihuahua Chain
-[Relayer link](https://www.mintscan.io/chihuahua/account/chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq)
-- OmniFlix
-- Osmosis
-- Juno Network
-- Injective
+| Chain | Chain ID | Relayer Address | Explorer |
+| --- | --- | --- | --- |
+| Osmosis | `osmosis-1` | `osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86` | [Mintscan](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86) |
+| Juno Network | `juno-1` | `juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj` | [Mintscan](https://www.mintscan.io/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj) |
+| Cosmos Hub | `cosmoshub-4` | `cosmos1aea0vly7lklqrkxjpvch8z5dekmxqwyk8kr4px` | [Mintscan](https://www.mintscan.io/cosmos/address/cosmos1aea0vly7lklqrkxjpvch8z5dekmxqwyk8kr4px) |
+| Neutron | `neutron-1` | `neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd` | [Mintscan](https://www.mintscan.io/neutron/address/neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd/) |
 
-### 8. Asset Mantle
-[Relayer link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm)
-- Osmosis
-- Juno Network
+## Notes
 
-### 9. OmniFlix Network
-[Relayer link](https://www.mintscan.io/omniflix/account/omniflix1llnx025yzlqehyz3hvtyh5f627kszclg32hlsm)
-- Osmosis
-- Juno Network
-- Chihuahua Chain
+- Injective relaying is not currently included in the staged Hermes setup.
+  Hermes 1.13.2 does not support Injective `ethsecp256k1` accounts; use Hermes
+  2.x or another relayer if Injective relaying is required again.
+- Retired or migrated networks from the old public list, including Chihuahua,
+  OmniFlix, Odin Protocol, AssetMantle, and Injective, should not be treated as
+  active POSTHUMAN relayer coverage.
+- Before starting the relayer, check key balances, RPC/gRPC reachability, and
+  the exact channel/path scope.
 
-### 10. Odin
-[Relayer link](https://ping.pub/odin/account/odin1arl3yqdafpff33gd0djvmj6kyu20q0w8c5ln2t)
-- Osmosis
+## Operational Reference
 
-### 11. Persistence
-[Relayer link](https://www.mintscan.io/persistence/address/persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w)
-- Osmosis channel-6 
-- Cosmos Hub channel-24
-- Secret Network channel-82
-- Injective channel-41
-- Juno channel-37
+Internal POSTHUMAN operators should use the local Hermes guide as the canonical
+runbook:
 
-### 11. Agoric
-[Relayer link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3)
-- Osmosis
-- Cosmos
-- Omniflix
-- Persistence
-
-### 12. BeeZee
-[Relayer link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg)
-- Osmosis
-- Cosmos
-- Crypto Dungeon
-
-### 13. Crypto Dungeon 
-[Relayer link](https://staking-explorer.com/account.php?chain=dungeon&addr=dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e)
-- BeeZee
-
-### 14. Neutron
-[Relayer link](https://www.mintscan.io/neutron/address/neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd/)
-- Juno
-
-</details>
-
-## IBC Relayers
-
-| Chain Name         | Address                                                                 | Explorer Link                                                                 |
-|--------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Injective          | inj13q49unftdxhvhz8z7yzcysvnnkgtdd46qmycva                              | [Link](https://www.mintscan.io/injective/address/inj13q49unftdxhvhz8z7yzcysvnnkgtdd46qmycva) |
-| Cosmos Hub         | cosmos1aea0vly7lklqrkxjpvch8z5dekmxqwyk8kr4px                            | [Link](https://www.mintscan.io/cosmos/address/cosmos1aea0vly7lklqrkxjpvch8z5dekmxqwyk8kr4px) |
-| Secret Network     | secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k                           | [Link](https://www.mintscan.io/secret/address/secret1h3grxcfts9uc8lvu9vclhahus2npk24pg0jz5k) |
-| Osmosis            | osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86                             | [Link](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86) |
-| Fetch.ai           | fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln                             | [Link](https://www.mintscan.io/fetchai/account/fetch19d723nkvnhkn8867kgfl5xmjyag9xfunhvl7ln) |
-| Juno Network       | juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj                             | [Link](https://ping.pub/juno/account/juno1kmh5nvfrsatc3v7ssgszzrlxsdz7f3czmdu5wj) |
-| Chihuahua Chain    | chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq                         | [Link](https://www.mintscan.io/chihuahua/account/chihuahua1jsagf0cy3mzyw4w2x8d8pd4cscxgtakuzkjcqq) |
-| Asset Mantle       | mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm                            | [Link](https://www.mintscan.io/asset-mantle/account/mantle1euj0c8hrdxxe495ktr97vh8w2swthmzrz2hdmm) |
-| OmniFlix Network   | omniflix1llnx025yzlqehyz3hvtyh5f627kszclg32hlsm                         | [Link](https://www.mintscan.io/omniflix/account/omniflix1llnx025yzlqehyz3hvtyh5f627kszclg32hlsm) |
-| Odin               | odin1arl3yqdafpff33gd0djvmj6kyu20q0w8c5ln2t                              | [Link](https://ping.pub/odin/account/odin1arl3yqdafpff33gd0djvmj6kyu20q0w8c5ln2t) |
-| Persistence        | persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w                      | [Link](https://www.mintscan.io/persistence/address/persistence1h3grxcfts9uc8lvu9vclhahus2npk24pyxqc8w) |
-| Agoric             | agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3                            | [Link](https://www.mintscan.io/agoric/address/agoric1wf2wfjc83fs52lw68s9gt95cfjfrq5lhqe88s3) |
-| BeeZee             | bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg                               | [Link](https://ping.pub/beezee/account/bze1hqgqgyz3nsjzj6dklhpwejml99uahckurzw8xg) |
-| Crypto Dungeon     | dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e                           | [Link](https://staking-explorer.com/account.php?chain=dungeon&addr=dungeon17ep079escd4xlh3an58wre599c3yjt4p860r5e) |
-| Neutron     | neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd                           | [Link](https://www.mintscan.io/neutron/address/neutron1h3grxcfts9uc8lvu9vclhahus2npk24pw40fnd) |
+`knowledge/validator/utils/guides/relayer.md`
